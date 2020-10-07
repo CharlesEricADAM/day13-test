@@ -1,0 +1,1 @@
+"The aim is to say #bonjour_monde "
